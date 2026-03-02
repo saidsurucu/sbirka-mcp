@@ -35,7 +35,7 @@ No installation required — ready to use directly:
 2. **Settings > Connectors > Add custom connector**
 3. In the dialog:
    * **Name:** `Sbírka MCP`
-   * **URL:** `https://sbirka.surucu.dev/mcp`
+   * **URL:** `https://sbirka-mcp.fastmcp.app/mcp`
 4. Click **Save**
 
 That's it! You can now search Czech legislation through Claude.
