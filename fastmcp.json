@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sbirka-mcp": {
+      "command": "uv",
+      "args": ["run", "--with", "fastmcp", "fastmcp", "run", "sbirka_server.py"]
+    }
+  }
+}
